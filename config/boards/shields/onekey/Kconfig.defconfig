@@ -1,4 +1,4 @@
-if SHIELD_ONE_KEY
+if SHIELD_ONEKEY
             
 config ZMK_KEYBOARD_NAME
     default "One Key"

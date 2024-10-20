@@ -1,2 +1,2 @@
-config SHIELD_ONE_KEY
+config SHIELD_ONEKEY
     def_bool $(shields_list_contains,onekey)
